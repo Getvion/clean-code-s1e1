@@ -4,21 +4,21 @@ body {
   color: #333;
   font-family: Lato, sans-serif;
 }
-.banner {
+.heaer {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
-.banner img {
+.heaer img {
   width: 100%;
 }
-.banner .more_inf {
+.heaer .more_inf {
   font-family: fantasy, cursive;
 }
 
 @media (max-width: 768px) {
-  .banner {
+  .heaer {
     text-align: center;
   }
 }
